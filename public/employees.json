@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Gordon Ramsay",
+    "age": "46",
+    "job": "Chef"
+  },
+  {
+    "name": "Rizzy Rampz",
+    "age": "19",
+    "job": "Youtuber"
+  },
+  {
+    "name": "Squidward Tentacles",
+    "age": "114",
+    "job": "Cashier"
+  },
+  {
+    "name": "Joe Barnard",
+    "age": "24",
+    "job": "Rocket Engineer"
+  },
+  {
+    "name": "Alex Johnson",
+    "age": "23",
+    "job": "Programmer"
+  }
+]
